@@ -1,4 +1,4 @@
-<h3 style='text-align: center;'> <img src="demo\logo.png"/></h3>
+<h3 style='text-align: center;'> <img src="demo\logo.PNG"/></h3>
 <h1 style='text-align: center;'> <b> Book Scraper 📘📖 </b></h1>
 
 - This is a command-line application for an automatic collection of books details on Z-Library website.
